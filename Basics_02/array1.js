@@ -31,7 +31,7 @@ console.log("A ", myArr); // [ 0, 1, 2, 3, 6 ]
 
 const myn1 = myArr.slice(1, 3) //gets the part of array excluding last
 
-console.log(myn1); // [1,2]
+console.log(myn1) // [1,2]
 console.log("B ", myArr); //[ 0, 1, 2, 3, 6 ] no change in og after slice
 
 
